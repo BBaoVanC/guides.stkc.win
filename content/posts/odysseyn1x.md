@@ -17,10 +17,13 @@ Odysseyn1x is a miniature Linux distribution that allows users to easily jailbre
 
 We will be using Ventoy rather than Rufus or Etcher since not only is it easier, you can continue you use your USB drive to store files while still being able to boot Odysseyn1x.
 
+If you have a Ryzen processor it's very likely the jailbreak will fail repeatedly, use an Intel machine if possible.
+
 # Requirements
 
 [Odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x/releases)
 - *Download `amd64` if you are on a 64-bit computer, otherwise use `i686`.*
+- *If you are using a device with an A9X processor, use [this](https://github.com/asdfugil/checkn1x_a9x_kerninfo_pongoOS/releases/tag/14.5-a9x-2) fork of Odysseyn1x.*
 
 [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
@@ -74,7 +77,7 @@ Press Enter and you will be loaded into the Odysseyn1x menu.
 
 Now for the fun part, select `Checkra1n` and follow the instructions on screen.
 - *If you see "Sorry, [device] is not supported on [iOS version] at this point." select `Options` and enable `Allow untested iOS/iPadOS/tvOS versions`.*
-- *If you still cannot continue, and you are using an A11 device (iPhone 8 or X), enable `Skip A11 BPR check`.*
+- *If you still cannot continue, and you are using an A11 device, enable `Skip A11 BPR check`.*
 
 If succesful, your device will boot and the checkra1n app will appear on your homescreen. **Do not open it!**
 
