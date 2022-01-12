@@ -6,7 +6,7 @@ authorTwitter = "atoiletcat" #do not include @
 cover = ""
 tags = ["odysseyn1x", "checkra1n"]
 keywords = ["odysseyn1x", "checkra1n"]
-description = "Use checkra1n or Odysseyra1n on any computer using a USB flash drive."
+description = "Use Odysseyra1n on any computer using a USB flash drive."
 showFullContent = false
 readingTime = false
 +++
