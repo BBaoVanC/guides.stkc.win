@@ -71,12 +71,13 @@ enableGitInfo = true
       logoText = "Guides"
       logoHomeLink = "/"
 
-#    [languages.en.menu]
-#      [[languages.en.menu.main]]
-#        identifier = "about"
-#        name = "About"
-#        url = "/about"
-#      [[languages.en.menu.main]]
-#        identifier = "showcase"
-#        name = "Showcase"
-#        url = "/showcase"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "https://stkc.win"
+
+      [[languages.en.menu.main]]
+        identifier = "donate"
+        name = "Donate"
+        url = "https://go.stkc.win/donate"
