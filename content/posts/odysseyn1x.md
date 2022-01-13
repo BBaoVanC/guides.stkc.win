@@ -93,7 +93,9 @@ Select `Quit` in checkra1n, then on the Odysseyn1x menu select `Odysseyra1n`.
 With your device still connected, press enter and then follow the on-screen prompts.
 - *If you see "Failed to install Procursus bootstrap and Sileo on your device." you may not have successfully jailbroken, repeat the jailbreaking steps. If you continue to get errors, you can try running [this shortcut](https://go.stkc.win/shortcut) directly on your device.*
 
-Sileo will appear on your homescreen. This is the modern alternative to Cydia and supports the same tweaks and repos. Open it then navigate to the `Packages` tab. Select `Upgrade All` and restart SpringBoard if prompted.
+Sileo will appear on your homescreen. This is the modern alternative to Cydia with support for the same tweaks and repos.
+
+Open Sileo then navigate to the `Packages` tab and select `Upgrade All` if available. Afterwards, switch to the `Search` tab and get the "libhooker" package by CoolStar. Tap the queue at the bottom, then select `Confirm`. When prompted, select `Restart SpringBoard`.
 
 If you wish to use Cydia you can search for `Cydia Installer` within Sileo and optionally uninstall Sileo afterwards. Installing it from the checkra1n app will **ruin your jailbreak!**
 
