@@ -15,6 +15,8 @@ readingTime = false
 \
 Odysseyn1x is a miniature Linux distribution that allows users to easily jailbreak their devices with checkra1n. Maintained by [raspberryenvoie](https://github.com/raspberryenvoie).
 
+# Opening Notes
+
 We will be using Ventoy rather than Rufus or Etcher since not only is it easier, you can continue you use your USB drive to store files while still being able to boot Odysseyn1x.
 
 If you have a Ryzen processor it's very likely the jailbreak will fail repeatedly, use an Intel machine if possible.
@@ -23,7 +25,7 @@ If you have a Ryzen processor it's very likely the jailbreak will fail repeatedl
 
 [Odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x/releases)
 - *Download `amd64` if you are on a 64-bit computer, otherwise use `i686`.*
-- *If you are using a device with an A9X processor, use [this](https://github.com/asdfugil/checkn1x_a9x_kerninfo_pongoOS/releases/tag/14.5-a9x-2) fork of Odysseyn1x.*
+- *If you are using a device with an A9X processor, use [asdfugil's fork](https://github.com/asdfugil/checkn1x_a9x_kerninfo_pongoOS/releases/tag/14.5-a9x-2) of Odysseyn1x.*
 
 [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
@@ -49,7 +51,7 @@ Copy the Odysseyn1x .iso file to the drive. If you'd like to keep everything org
 
 You can move your old files back on to the USB flash drive now if necessary.
 
-# Preparing to boot Odysseyn1x
+# Preparing to Boot Odysseyn1x
 
 Before we can boot directly into Odysseyn1x we will need to do two things: disable Secure Boot and change the boot order.
 
@@ -78,6 +80,7 @@ Press Enter and you will be loaded into the Odysseyn1x menu.
 Now for the fun part, select `Checkra1n` and follow the instructions on screen.
 - *If you see "Sorry, [device] is not supported on [iOS version] at this point." select `Options` and enable `Allow untested iOS/iPadOS/tvOS versions`.*
 - *If you still cannot continue, and you are using an A11 device, disable your passcode and enable `Skip A11 BPR check`.*
+- *On some devices your computer may freeze before you can start the jailbreak process. You will need to force restart your computer, select `Shell` in the Odysseyn1x menu, and run `checkra1n -c` instead. You will not be guided through the process to enter DFU mode, refer to [this tutorial](https://www.theiphonewiki.com/wiki/DFU_Mode#Entering_DFU_Mode) if necessary.*
 
 If succesful, your device will boot and the checkra1n app will appear on your homescreen. **Do not open it!**
 
