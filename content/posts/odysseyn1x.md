@@ -77,7 +77,7 @@ Press Enter and you will be loaded into the Odysseyn1x menu.
 
 Now for the fun part, select `Checkra1n` and follow the instructions on screen.
 - *If you see "Sorry, [device] is not supported on [iOS version] at this point." select `Options` and enable `Allow untested iOS/iPadOS/tvOS versions`.*
-- *If you still cannot continue, and you are using an A11 device, enable `Skip A11 BPR check`.*
+- *If you still cannot continue, and you are using an A11 device, disable your passcode and enable `Skip A11 BPR check`.*
 
 If succesful, your device will boot and the checkra1n app will appear on your homescreen. **Do not open it!**
 
