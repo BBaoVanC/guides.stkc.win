@@ -15,13 +15,13 @@ readingTime = false
 \
 Odysseyn1x is a miniature Linux distribution that allows users to easily jailbreak their devices with checkra1n. Maintained by [raspberryenvoie](https://github.com/raspberryenvoie).
 
-# Opening Notes
+## Opening Notes
 
 We will be using Ventoy rather than Rufus or Etcher since not only is it easier, you can continue you use your USB drive to store files while still being able to boot Odysseyn1x.
 
 If you have a Ryzen processor it's very likely the jailbreak will fail repeatedly, use an Intel machine if possible.
 
-# Requirements
+## Requirements
 
 [Odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x/releases)
 - *Download `amd64` if you are on a 64-bit computer, otherwise use `i686`.*
@@ -29,7 +29,7 @@ If you have a Ryzen processor it's very likely the jailbreak will fail repeatedl
 
 [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
-# Installing Ventoy
+## Installing Ventoy
 
 ![Extracted in Explorer](extracted-explorer.png)
 
@@ -51,7 +51,7 @@ Copy the Odysseyn1x .iso file to the drive. If you'd like to keep everything org
 
 You can move your old files back on to the USB flash drive now if necessary.
 
-# Preparing to Boot Odysseyn1x
+## Preparing to Boot Odysseyn1x
 
 Before we can boot directly into Odysseyn1x we will need to do two things: disable Secure Boot and change the boot order.
 
@@ -65,7 +65,7 @@ Now look for `Boot Option` or `Boot Order`. Move your USB flash drive to the top
 
 Make sure you save and exit.
 
-# Booting Odysseyn1x
+## Booting Odysseyn1x
 
 If you set your boot order correctly you will be loaded into the Ventoy boot menu. Otherwise, press the boot menu key immediately after powering on your computer and select the USB flash drive.
 
@@ -75,7 +75,7 @@ Press Enter and you will be loaded into the Odysseyn1x menu.
 
 ![Odysseyn1x menu](odysseyn1x-menu.png)
 
-# Jailbreaking
+## Jailbreaking
 
 Now for the fun part, select `Checkra1n` and follow the instructions on screen.
 - *If you see "Sorry, [device] is not supported on [iOS version] at this point." select `Options` and enable `Allow untested iOS/iPadOS/tvOS versions`.*
@@ -84,7 +84,7 @@ Now for the fun part, select `Checkra1n` and follow the instructions on screen.
 
 If succesful, your device will boot and the checkra1n app will appear on your homescreen. **Do not open it!**
 
-# Installing Odysseyra1n
+## Installing Odysseyra1n
 
 We will be installing Odysseyra1n as it comes with up-to-date core utilities, an actively maintained package manager, and a more efficient tweak injection library.
 
@@ -99,12 +99,12 @@ Open Sileo then navigate to the `Packages` tab and select `Upgrade All` if avail
 
 If you wish to use Cydia you can search for `Cydia Installer` within Sileo and optionally uninstall Sileo afterwards. Installing it from the checkra1n app will **ruin your jailbreak!**
 
-# You're done!
+## You're done!
 
 Select `Shut down` within Odysseyn1x then unplug your USB flash drive. You can now boot your computer back into Windows.
 
 When your phone's battery dies or if you reboot you will need to rerun the jailbreak, this is because checkra1n is semi-tethered. Simply select `Checkra1n` in the Odysseyn1x menu and repeat the steps you followed earlier. You do not need to run `Odysseyra1n` again, this is a one-time install script.
 
-# Still need help?
+## Still need help?
 
 Join the [r/Jailbreak](https://discord.gg/jb) or [Sileo](https://discord.gg/sileo) Discord servers.

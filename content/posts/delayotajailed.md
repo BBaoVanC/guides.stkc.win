@@ -20,32 +20,34 @@ Thank you **[DhinakG](https://github.com/dhinakg/)** for discovering this awesom
 
 **HUGE** thank you to **[Saunders Tech](https://www.youtube.com/c/SaundersTech)** for making this [video](https://www.youtube.com/watch?v=vKgI55PL-ag&t) and for providing the backup used in this guide!
 
-# Requirements
+## Requirements
 
 ---
 
 1. Previously made backup.
 
 2. Personal Computer
-- *Either running `Mac` or `Windows`, **Linux** users can't use this method unfortunately.*
 
-- *Any work or school computer may **NOT** work, these methods need Admin Permissions to function.*
+    *Either running `Mac` or `Windows`, **Linux** users can't use this method unfortunately.*
+    *Any work or school computer may **NOT** work, these methods need Admin Permissions to function.*
 
 3. iOS 11+
-- *If you're not sure on what iOS version you're currently on go to:*
 
-`Settings` -> `General` -> `About` *and look at `Software Version`.*
+    *If you're not sure on what iOS version you're currently on go to:
+    `Settings` -> `General` -> `About` and look at `Software Version`.*
 
-4A. [iBackupBot](https://www.icopybot.com/ibackupbot_setup.exe) `Windows`
+4. Either:
 
-- *You will also need [iTunes](https://www.apple.com/itunes/download/win64).*
+    1. `Windows`: [iBackupBot](https://www.icopybot.com/ibackupbot_setup.exe)
 
-4B. [Apple Configurator 2](https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) `Mac`
+        *You will also need [iTunes](https://www.apple.com/itunes/download/win64).*
 
-If you have a Jailbroken device go **[here]()**.
-- *You can **keep** data if you use this method linked.*
+    2. `Mac`: [Apple Configurator 2](https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12)
 
-# For un-Jailbroken devices `Hardest`
+If you have a Jailbroken device go **[here]({{< ref "delayota" >}})**. You can
+**keep** data if you use this method linked.
+
+## For un-Jailbroken devices `Hardest`
 
 ---
 
@@ -55,7 +57,7 @@ If you instead have a `Mac`, go **[here](#mac---using-apple-configurator-2-free)
 
 Once done, move on to **[Installing the profile](#installing-the-profile)**.
 
-# Windows - Using iBackupBot `Free`
+## Windows - Using iBackupBot `Free`
 
 ---
 
@@ -113,7 +115,7 @@ Check Settings, if it says `This device is supervised and managed by stkc.win.` 
 
 You can now move on to **[Installing the profile](#installing-the-profile)**.
 
-# Mac - Using Apple Configurator 2 `Free`
+## Mac - Using Apple Configurator 2 `Free`
 
 ---
 
@@ -151,7 +153,7 @@ Click `Prepare`, which will erase your device and supervise it.
 
 Check Settings, if it says `This device is supervised and managed.` Then you did correctly!
 
-# Installing the profile
+## Installing the profile
 
 ---
 
@@ -185,11 +187,11 @@ Press `Download and Install`.
 
 > Make sure you use your backup after the install!
 
-# You're Done!
+## You're Done!
 
 ---
 
-# Still need help?
+## Still need help?
 
 ---
 

@@ -20,21 +20,25 @@ Thank you, [DhinakG](https://github.com/dhinakg/) for discovering this awesome m
 
 - *Note that the Alternative method **may** never work anymore once everything below `15.2` isn't availible with DelayOTA.*
 
-# Requirements
+## Requirements
 
 ---
 
 1. Jailbroken Device
 
+    If you don't have a Jailbroken device go **[here](https://guides.stkc.win/posts/delayotajailed/)**.
+
 2. iOS 11+
-- *If you're not sure on what iOS version you're currently on go to:*
 
-`Settings` -> `General` -> `About` *and look at `Software Version`.*
+    *If you're not sure on what iOS version you're currently on go to:*
+    `Settings` -> `General` -> `About` *and look at `Software Version`.*
 
-If you don't have a Jailbroken device go **[here](https://guides.stkc.win/posts/delayotajailed/)**.
-- *You will need to **wipe** your device when you supervise if you're unjailbroken, so we suggest you take a backup while unsupervised. Either using `iTunes/Finder`, `iMazing`, `Apple configurator 2`, or using an `iCloud Backup`.*
+You will need to **wipe** your device when you supervise if you're
+unjailbroken, so we suggest you take a backup while unsupervised. Either using
+`iTunes/Finder`, `iMazing`, `Apple configurator 2`, or using an `iCloud
+Backup`.
 
-# Using alternate profiles
+## Using alternate profiles
 
 ---
 
@@ -44,7 +48,7 @@ If you're on `14.4.2` and **lower** you need to do some extra steps before using
 If you're on `14.5` and **higher** we recommend following the normal method.
 - *If you're having trouble join the [r/Jailbreak discord](https://discord.gg/jb) for help.*
 
-# For Jailbroken devices `Easiest`
+## For Jailbroken devices `Easiest`
 
 ---
 
@@ -82,7 +86,7 @@ Go into Settings and see if the update is there:
 
 Press `Download and Install`, and **[You're Done](#youre-done)**!
 
-#
+##
 
 > Restore RootFS
 
@@ -104,7 +108,7 @@ Open the checkra1n app on your home screen and tap Restore System.
 
 - *If the icon has disappeared or you get Restore Error: General, reboot and re-jailbreak and try again.*
 
-# Jailbroken: using alternate profiles `Hard`
+## Jailbroken: using alternate profiles `Hard`
 
 ---
 
@@ -168,11 +172,11 @@ Now continue with normal delay OTA procedure: **[Restore RootFS](#heading)**.
 
 Now remove the beta profile once you're finished.
 
-# You're Done!
+## You're Done!
 
 ---
 
-# Still need help?
+## Still need help?
 
 ---
 
