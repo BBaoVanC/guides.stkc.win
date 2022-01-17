@@ -24,15 +24,15 @@ Thank you, [DhinakG](https://github.com/dhinakg/) for discovering this awesome m
 
 ---
 
-Jailbroken Device
+1. Jailbroken Device
 
-iOS 11+
+2. iOS 11+
 - *If you're not sure on what iOS version you're currently on go to:*
 
 `Settings` -> `General` -> `About` *and look at `Software Version`.*
 
-If you don't have a Jailbroken device go **[here]()**.
-- *You will need to **wipe** your device when you supervise if you're unjailbroken, so we suggest you take a backup while unsupervised. Either using `iMazing`, `Apple configurator 2`, or using an `iCloud Backup`.*
+If you don't have a Jailbroken device go **[here](https://guides.stkc.win/posts/delayotajailed/)**.
+- *You will need to **wipe** your device when you supervise if you're unjailbroken, so we suggest you take a backup while unsupervised. Either using `iTunes/Finder`, `iMazing`, `Apple configurator 2`, or using an `iCloud Backup`.*
 
 # Using alternate profiles
 

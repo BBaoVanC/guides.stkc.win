@@ -24,27 +24,26 @@ Thank you **[DhinakG](https://github.com/dhinakg/)** for discovering this awesom
 
 ---
 
-Previously made backup.
+1. Previously made backup.
 
-Personal Computer
+2. Personal Computer
 - *Either running `Mac` or `Windows`, **Linux** users can't use this method unfortunately.*
 
 - *Any work or school computer may **NOT** work, these methods need Admin Permissions to function.*
 
-iOS 11+
+3. iOS 11+
 - *If you're not sure on what iOS version you're currently on go to:*
 
 `Settings` -> `General` -> `About` *and look at `Software Version`.*
 
-If you have a Jailbroken device go **[here]()**.
-- *You can **keep** data if you use this method linked.*
-
-[iBackupBot](https://www.icopybot.com/ibackupbot_setup.exe) `Windows`
+4A. [iBackupBot](https://www.icopybot.com/ibackupbot_setup.exe) `Windows`
 
 - *You will also need [iTunes](https://www.apple.com/itunes/download/win64).*
 
-[Apple Configurator 2](https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) `Mac`
+4B. [Apple Configurator 2](https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) `Mac`
 
+If you have a Jailbroken device go **[here]()**.
+- *You can **keep** data if you use this method linked.*
 
 # For un-Jailbroken devices `Hardest`
 
