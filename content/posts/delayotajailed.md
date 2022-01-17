@@ -18,7 +18,7 @@ You can update using DelayOTA to versions for up to 90 days after a new version 
 
 Thank you **[DhinakG](https://github.com/dhinakg/)** for discovering this awesome method!
 
-**HUGE** thank you to **[Saunders Tech](https://www.youtube.com/c/SaundersTech)** for making this [vidio](https://www.youtube.com/watch?v=vKgI55PL-ag&t) and for providing the backup used in this guide!
+**HUGE** thank you to **[Saunders Tech](https://www.youtube.com/c/SaundersTech)** for making this [video](https://www.youtube.com/watch?v=vKgI55PL-ag&t) and for providing the backup used in this guide!
 
 # Requirements
 
