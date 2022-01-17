@@ -1,12 +1,12 @@
 +++
-title = "Delay OTA - un-Jailbroken"
+title = "Delay OTA - Jailed"
 date = "2022-01-14T17:58:40-05:00"
 author = "flower"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["delayota", "NotJailbroken"]
-keywords = ["delayota", "NotJailbroken"]
-description = "You can update using DelayOTA to versions for up to 90 days after a new version is released."
+tags = ["delayota", "jailed"]
+keywords = ["delayota", "jailed"]
+description = "You can update using DelayOTA to versions for up to 90 days after a new version is released. This guide is for unjailbroken devices."
 showFullContent = false
 readingTime = false
 +++
